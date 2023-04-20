@@ -6,9 +6,9 @@ This is the code repository for the NobelApp React Native app and it is aimed to
 
 ### The following has been achieved
 
-Real time update
-Imperfect matches
-And ordering results by quality of match
+Real time update, 
+Imperfect matches,
+and ordering results by quality of match.
 
 ## Development Environment Setup
 
